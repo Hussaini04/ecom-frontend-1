@@ -1,5 +1,11 @@
 # E-Commerce Web Application - Frontend (MVP)
 
+[![Build Status](https://img.shields.io/github/actions/workflow/status/Hussaini04/ecom-frontend-1/ci.yml?branch=main)](https://github.com/Hussaini04/ecom-frontend-1/actions)
+[![License](https://img.shields.io/github/license/Hussaini04/ecom-frontend-1)](LICENSE)
+[![Dependencies](https://img.shields.io/librariesio/github/Hussaini04/ecom-frontend-1)](https://github.com/Hussaini04/ecom-frontend-1)
+[![Vercel Deployment](https://img.shields.io/badge/deployed%20on-vercel-black?logo=vercel)](https://vercel.com)
+[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)](https://react.dev)
+
 This repository contains the **frontend** of the E-commerce web application built with **React (MERN stack)**.  
 The frontend provides **customer and merchant views**, with a focus on clean UI/UX and responsive design.
 
